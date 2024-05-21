@@ -8,7 +8,7 @@ My name is Coda Beatrix, a Swift Developer with a specialized focus on Bitcoin C
 
 ## Projects
 - **SwiftFulcrum**: A Swift framework that incorporates the Fulcrum protocol, enabling developers to craft applications with advanced Bitcoin Cash features. Its type-safe API ensures seamless interactions with Fulcrum servers, catering to both new projects and the enhancement of existing ones.
-- **OpalBase**: An open-source library designed for the Apple ecosystem, facilitating the integration of Bitcoin Cash transactions into Swift applications. It encapsulates modern Swift paradigms, offering a secure and efficient mechanism for handling BCH transactions and adhering to the BIP-39 standard for mnemonic seed address generation.
+- **Opal Base**: An open-source library designed for the Apple ecosystem, facilitating the integration of Bitcoin Cash transactions into Swift applications. It encapsulates modern Swift paradigms, offering a secure and efficient mechanism for handling BCH transactions and adhering to the BIP-39 standard for mnemonic seed address generation.
 - **Opal Wallet**: More than a cryptocurrency wallet, Opal Wallet is conceived as a beacon of financial independence and effortless transactions. It harmonizes the strengths of Bitcoin Cash and Apple's technology to furnish a user experience that is both secure and intuitive.
 
 ## Contact
